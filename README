@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=757
+
+This is a modified version of the script showpairs
+(vimscript #626), written originally by
+Anthony Kruize. When the cursor is on a brace, the matching one is
+higlighted. Otherwise, the current surrounding braces (up to the depth of three) are emphasised.
+
